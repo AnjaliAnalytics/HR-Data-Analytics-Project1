@@ -25,7 +25,8 @@ The raw data is synthesized into a corporate-ready, interactive frontend dashboa
 
 A view of the functional dashboard is shown below:
 
-<img width="1338" height="656" alt="image" src="https://github.com/user-attachments/assets/679dae40-df17-4c6b-b62e-13aa509fe552" />
+<img width="1025" height="445" alt="Screenshot 2026-07-11 182724" src="https://github.com/user-attachments/assets/91b49b6e-8f0d-407b-afe2-6e666782f650" />
+
 
 *Key feature: The headcount KPI card dynamically updates. Notice how it shows only **1043** employees when the Business Travel slicer is filtered, rather than the flat raw data total.*
 
